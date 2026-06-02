@@ -1,0 +1,16 @@
+.DS_Store
+._*
+
+.venv/
+vendor/
+.serve-logs/
+
+models/*
+!models/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+__pycache__/
+*.py[cod]
+*.egg-info/

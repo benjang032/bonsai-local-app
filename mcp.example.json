@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bonsai-local": {
+      "command": "/Users/benjang/Documents/Code/bonsai-model/scripts/mcp.sh",
+      "args": []
+    }
+  }
+}

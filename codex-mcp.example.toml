@@ -1,0 +1,4 @@
+[mcp_servers.bonsai_local]
+command = "/Users/benjang/Documents/Code/bonsai-model/scripts/mcp.sh"
+args = []
+startup_timeout_sec = 120
