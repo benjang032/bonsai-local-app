@@ -4,6 +4,12 @@ Local Bonsai Image 4B generator for Apple Silicon Macs, exposed as an MCP server
 
 The default model is `prism-ml/bonsai-image-binary-4B-mlx-1bit`, matching the old app's smaller binary path. The quality-oriented ternary model is also supported.
 
+## Example Output
+
+Generated locally through the MCP tool:
+
+![Realistic puppy generated locally with Bonsai MCP](docs/assets/puppy-realistic.png)
+
 ## Setup
 
 ```sh
